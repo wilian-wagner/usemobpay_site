@@ -135,22 +135,9 @@ const App = () => {
       <footer className="footer">
         <div className="footer-content">
           <div className="footer-column">
-            <h2>Nossa empresa</h2>
-            <p>Usemobpay, a maquininha de cartão exclusiva para empreendedores que vendem smartphones.</p>
-          </div>
-          <div className="footer-column">
             <h2>Contato</h2>
-            <p>(15) 99656-8605</p>
-            <p>contato@usemobpay.com.br</p>
-          </div>
-          <div className="footer-column">
-            <h2>Produtos</h2>
-            <p>Maquininhas</p>
-            <p>Acesse sua conta</p>
-          </div>
-          <div className="footer-column">
-            <p>CNPJ: 13.966.572/0001-71 MATRIZ CAPPTA S.A</p>
-            <p>@ usemobpay - Todos os direitos reservados</p>
+            <h3>Suporte Usemobpay</h3>
+            <p>+55 15 99737-0669</p>
           </div>
         </div>
       </footer>
