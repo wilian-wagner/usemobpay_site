@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/usemobpay_site/static/css/main.615ccaf3.css",
-    "main.js": "/usemobpay_site/static/js/main.4f28e319.js",
-    "static/js/453.194e57bd.chunk.js": "/usemobpay_site/static/js/453.194e57bd.chunk.js",
-    "static/media/USEMOBPAY_1x.png": "/usemobpay_site/static/media/USEMOBPAY_1x.642945632bbb8b73dee3.png",
-    "index.html": "/usemobpay_site/index.html",
-    "main.615ccaf3.css.map": "/usemobpay_site/static/css/main.615ccaf3.css.map",
-    "main.4f28e319.js.map": "/usemobpay_site/static/js/main.4f28e319.js.map",
-    "453.194e57bd.chunk.js.map": "/usemobpay_site/static/js/453.194e57bd.chunk.js.map"
+    "main.css": "/static/css/main.615ccaf3.css",
+    "main.js": "/static/js/main.c251a350.js",
+    "static/js/453.194e57bd.chunk.js": "/static/js/453.194e57bd.chunk.js",
+    "static/media/USEMOBPAY_1x.png": "/static/media/USEMOBPAY_1x.642945632bbb8b73dee3.png",
+    "index.html": "/index.html",
+    "main.615ccaf3.css.map": "/static/css/main.615ccaf3.css.map",
+    "main.c251a350.js.map": "/static/js/main.c251a350.js.map",
+    "453.194e57bd.chunk.js.map": "/static/js/453.194e57bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.615ccaf3.css",
-    "static/js/main.4f28e319.js"
+    "static/js/main.c251a350.js"
   ]
 }
