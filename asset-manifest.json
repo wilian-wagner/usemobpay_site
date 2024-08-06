@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.615ccaf3.css",
-    "main.js": "/static/js/main.c251a350.js",
+    "main.js": "/static/js/main.fc0436d1.js",
     "static/js/453.194e57bd.chunk.js": "/static/js/453.194e57bd.chunk.js",
     "static/media/USEMOBPAY_1x.png": "/static/media/USEMOBPAY_1x.642945632bbb8b73dee3.png",
     "index.html": "/index.html",
     "main.615ccaf3.css.map": "/static/css/main.615ccaf3.css.map",
-    "main.c251a350.js.map": "/static/js/main.c251a350.js.map",
+    "main.fc0436d1.js.map": "/static/js/main.fc0436d1.js.map",
     "453.194e57bd.chunk.js.map": "/static/js/453.194e57bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.615ccaf3.css",
-    "static/js/main.c251a350.js"
+    "static/js/main.fc0436d1.js"
   ]
 }
